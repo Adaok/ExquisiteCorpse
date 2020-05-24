@@ -1,1 +1,1 @@
-When I can learn Russian, I can translate the spirits language ,
+When I can learn Russian, I can translate the spirits language. I need to learn more, 

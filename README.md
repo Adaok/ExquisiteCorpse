@@ -5,6 +5,7 @@ A Git exercise to explain some Git concepts
 Here all rules :
 - Every cadavre exquis should be a nanofiction (280 char max).
 - The owner of the repository begins each nanofiction with a sentence of about 33 characters.
+_ Each contribution would be in english.
 - Each contributor makes a modification of about 33 characters. If necessary, he can modify some elements already written to correct the sentence from a grammatical or comprehension point of view.
 - The contributor does not alter too much the nanofiction already written or risk not seeing it merged.
 
